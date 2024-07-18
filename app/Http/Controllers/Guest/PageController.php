@@ -7,9 +7,9 @@ use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
-    public function welcome()
+    public function home()
     
     {
-        return view('welcome');
+        return view('home');
     }
 }
