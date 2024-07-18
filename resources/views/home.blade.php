@@ -1,1 +1,1 @@
-@extends("layouts.layout")
+@extends("layouts.demo.comics")
